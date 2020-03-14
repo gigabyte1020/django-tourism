@@ -1,0 +1,34 @@
+{% extends 'indexuser.html'  %}
+
+{%  load static %}
+{% block content1 %}
+        <div style=" margin-left: 20% ; ">
+<ol><li>Go to <a href="http://maps.google.com" target="_blank">maps.google.com</a></li>
+<li>Find the location you want visit</li>
+<li>Click on Share in the sidebar</li>
+    <li>Copy and paste the link in the box below</li>
+</ol>
+
+<form action="" onsubmit="myFunction()" method="POST" enctype="multipart/form-data">
+{% csrf_token %}
+      <div class="form-group">
+    <label class="col-sm-2 col-form-label">Enter Name of country</label>
+    <div class="col-sm-5">
+        <input type="text" class="form-control" name="t1"/><br/>
+    </div>
+      </div>
+
+    <div class="form-group">
+    <label class="col-sm-2 col-form-label">Enter Google Maps URL</label>
+    <div class="col-sm-5"><input type="url" class="form-control" name="t2"/>
+    </div></div>
+<input type="submit" class="btn btn-primary"/>
+
+</form></div>
+
+    <script>function myFunction()
+    {
+            alert("Submitted Suggestion!");
+    }
+        </script>
+{% endblock %}

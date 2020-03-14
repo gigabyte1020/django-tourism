@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3dd588d-01fd-4211-90c1-cd56c656ddfe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XC9fy2SL1GlSLt4F9CB686IeNL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/XSStrike-3.1.5/XSStrike-3.1.5" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Django Projects\DT1\guide" />
+      <recent name="E:\Django Projects\DT1\templates" />
+      <recent name="E:\Django Projects\DT1\user" />
+      <recent name="E:\Django Projects\DT1\home" />
+      <recent name="E:\Django Projects\DT1\static\home" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DT1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="DT1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="DT1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3dd588d-01fd-4211-90c1-cd56c656ddfe" name="Default Changelist" comment="" />
+      <created>1580539316808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580539316808</updated>
+      <workItem from="1580539431701" duration="8968000" />
+      <workItem from="1580704998055" duration="16787000" />
+      <workItem from="1580722476063" duration="2688000" />
+      <workItem from="1580793528554" duration="9610000" />
+      <workItem from="1580809279711" duration="1826000" />
+      <workItem from="1580965034343" duration="13936000" />
+      <workItem from="1580983873780" duration="3678000" />
+      <workItem from="1581050631526" duration="37000" />
+      <workItem from="1581050755665" duration="2209000" />
+      <workItem from="1581052987070" duration="17439000" />
+      <workItem from="1581137964108" duration="17002000" />
+      <workItem from="1581310011616" duration="10483000" />
+      <workItem from="1581321803619" duration="8723000" />
+      <workItem from="1581483849745" duration="9592000" />
+      <workItem from="1581499816138" duration="3221000" />
+      <workItem from="1262284618416" duration="22000" />
+      <workItem from="1581569950347" duration="12769000" />
+      <workItem from="1581587857350" duration="2000" />
+      <workItem from="1581588705215" duration="614000" />
+      <workItem from="1581914146022" duration="459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="21" key="#Scopes" timestamp="1580974375908">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="21" key="#Scopes/0.0.1360.728@0.0.1360.728" timestamp="1580974375908" />
+    <state x="211" y="369" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581334140271">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="211" y="369" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1360.728@0.0.1360.728" timestamp="1581334140271" />
+    <state x="92" y="92" width="1176" height="544" key="DiffContextDialog" timestamp="1580544095593">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="92" y="92" width="1176" height="544" key="DiffContextDialog/0.0.1360.728@0.0.1360.728" timestamp="1580544095593" />
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1581587039302">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1581587039302" />
+    <state width="691" height="111" key="GridCell.Tab.0.bottom" timestamp="1581914611916">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="691" height="111" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1581914611916" />
+    <state width="691" height="111" key="GridCell.Tab.0.center" timestamp="1581914611916">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="691" height="111" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1581914611916" />
+    <state width="691" height="111" key="GridCell.Tab.0.left" timestamp="1581914611915">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="691" height="111" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1581914611915" />
+    <state width="691" height="111" key="GridCell.Tab.0.right" timestamp="1581914611916">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="691" height="111" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1581914611916" />
+    <state x="751" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1580705681924">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="751" y="373" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1580705681924" />
+    <state x="112" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580544152316">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="112" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1360.728@0.0.1360.728" timestamp="1580544152316" />
+    <state x="182" y="31" width="736" height="697" key="find.popup" timestamp="1581585802841">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="182" y="31" width="736" height="697" key="find.popup/0.0.1360.728@0.0.1360.728" timestamp="1581585802841" />
+    <state x="465" y="173" key="save.file.as.template.dialog" timestamp="1581312959943">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="465" y="173" key="save.file.as.template.dialog/0.0.1360.728@0.0.1360.728" timestamp="1581312959943" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DT1/settings.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
